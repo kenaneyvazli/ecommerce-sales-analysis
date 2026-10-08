@@ -1,0 +1,26 @@
+order_id,order_date,customer_id,region,city,category,product,quantity,unit_price,discount,shipping_cost,payment_method,order_status
+ORD001,2026-01-05,C001,Baku,Baku,Electronics,Mouse,2,25,0.0,3,Card,Delivered
+ORD002,2026-01-07,C002,BAKU,Baku,Electronics,Keyboard,1,55,0.1,4,Cash,Delivered
+ORD003,2026/01/09,C003,baku ,Baku,Office,Notebook,5,6,0.0,2,Card,Delivered
+ORD004,10-01-2026,C004,Ganja,Ganja,Electronics,Headphones,1,80,0.15,5,Card,Shipped
+ORD005,2026-01-12,C005,Sumqayit,Sumqayit,Home,Lamp,2,35,0.05,4,Cash,Delivered
+ORD006,2026-01-15,C006,Baku,Baku,Office,Pen,10,2,0.0,2,,Delivered
+ORD007,2026-01-18,C007,Ganja,Ganja,Home,Chair,1,120,0.1,8,Card,Cancelled
+ORD008,2026-01-20,C008,baku,Baku,Electronics,Mouse,3,25,0.0,3,Cash,Delivered
+ORD009,2026-01-22,C009,Sumqayit,Sumqayit,Office,Notebook,8,6,0.05,2,Card,Delivered
+ORD010,2026-01-25,C010,Baku,Baku,Electronics,Monitor,1,260,0.1,10,Card,Delivered
+ORD011,2026-02-02,C011,Ganja,Ganja,Home,Table,1,180,0.05,12,Cash,Delivered
+ORD012,2026-02-04,C012,Baku,,Electronics,Keyboard,2,55,0.0,4,Card,Shipped
+ORD013,2026-02-07,C013,Sumqayit,Sumqayit,Office,Pen,20,2,0.0,3,Cash,Delivered
+ORD014,2026-02-09,C014,Baku,Baku,Home,Lamp,1,35,0.0,4,Card,Delivered
+ORD015,2026-02-11,C015,Ganja,Ganja,Electronics,Headphones,2,80,0.1,5,Card,Delivered
+ORD016,2026-02-14,C016,Baku,Baku,Office,Notebook,4,6,0.05,2,Card,Delivered
+ORD017,2026-02-17,C017,Baku,Baku,Electronics,Monitor,1,-260,0.1,10,Card,Delivered
+ORD018,2026-02-19,C018,Sumqayit,Sumqayit,Home,Chair,2,120,0.15,8,Cash,Delivered
+ORD019,2026-02-21,C019,Ganja,Ganja,Office,Pen,15,2,0.0,3,Card,Delivered
+ORD020,2026-02-23,C020,Baku,Baku,Electronics,Mouse,2,25,0.05,3,Card,Delivered
+ORD021,2026-02-25,C021,Baku,Baku,Electronics,Monitor,1,260,,10,Card,Delivered
+ORD022,2026-02-27,C022,Ganja,Ganja,Home,Table,1,180,0.05,12,Cash,Delivered
+ORD023,2026-03-02,C023,Sumqayit,Sumqayit,Office,Notebook,6,6,0.0,2,Card,Delivered
+ORD024,2026-03-04,C024,Baku,Baku,Electronics,Keyboard,2,55,0.0,4,Card,Delivered
+ORD024,2026-03-04,C024,Baku,Baku,Electronics,Keyboard,2,55,0.0,4,Card,Delivered
